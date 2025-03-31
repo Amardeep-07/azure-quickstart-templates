@@ -27,7 +27,7 @@
     },
     "location": {
       "type": "string",
-      "defaultValue": "[resourceGroup().location]",
+      "defaultValue": "["defaultValue": "canadaeast"]",
       "metadata": {
         "description": "Location for all resources."
       }
